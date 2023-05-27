@@ -116,7 +116,6 @@ End the program with endmodule.
 Run the program and choose RTL viewer to get RTL realization.
 
 ### PROGRAM 
-/*
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Preethi.A.A
@@ -174,7 +173,6 @@ qbar<=~q;
 end 
 endmodule
 ```
-*/
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
